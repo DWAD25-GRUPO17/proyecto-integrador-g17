@@ -2,7 +2,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 Integrantes:
-**Nadia Molina
-**Griselda Aguirre
-**Sofia Martinez
+**Nadia Molina <br/>
+**Griselda Aguirre <br/>
+**Sofia Martinez <br/>
+**Agustina Alonzo <br/>
 >>>>>>> origin/DevelopSofiaM
